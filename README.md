@@ -1,2 +1,2 @@
-# victorhbcampos.github.io
+# Jornada Dev - EBAC
 Currículo do Jornada Dev
